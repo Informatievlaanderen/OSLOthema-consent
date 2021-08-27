@@ -1,0 +1,35 @@
+{
+  "naam": "Vocabularium en applicatieprofiel OSLO Consent",
+  "rapport": "",
+  "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
+  "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
+  "publicatiedatum": "TBD",
+  "type_toepassing": "Aanbevolen (vrijwillig)",
+  "categorie": "Vocabularium en applicatieprofielen",
+  "beschrijving": "core-concept.md",
+  "specificatiedocument": [],
+  "documentatie": [],
+  "charter": [
+    {
+      "naam": "Werkgroep Charter Consent (TRAPEZE)",
+      "waarde": "Working Group Charter OSLO Consent (TRAPEZE).docx"
+    }
+  ],
+  "verslagen": [
+    {
+      "naam": "Verslag Business werkgroep - 20 augustus 2021",
+      "waarde": "20210820_BusinessWorkshop_MeetingMinutes.docx"
+    }
+  ],
+  "presentaties": [
+    {
+      "naam": "Presentatie Business werkgroep - 20 augustus 2021",
+      "waarde": "OSLO Core Consent - Business Workshop.pptx"
+    }
+  ],
+  "functioneel_toepassingsgebied": "TBD",
+  "organisatorisch_werkingsgebied": "TBD",
+  "datum_van_aanmelding": "TBD",
+  "erkenning_werkgroep_datastandaarden": "TBD",
+  "erkenning_stuurgroep": "TBD"
+}
