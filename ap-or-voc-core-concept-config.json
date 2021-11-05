@@ -18,13 +18,29 @@
   "verslagen": [
     {
       "naam": "Verslag Business werkgroep - 20 augustus 2021",
-      "waarde": "20210820_BusinessWorkshop_MeetingMinutes.docx"
+      "waarde": "20210820_BusinessWorkshop_MeetingMinutes__OSLOTrapeze.docx"
+    },
+    {
+      "naam": "Verslag Thematische werkgroep 1 - 23 september 2021",
+      "waarde": "20210923_ThematicWorkshop1_MeetingMinutes_OSLOTrapeze.docx"
+    },
+    {
+      "naam": "Verslag Thematische werkgroep 2 - 21 oktober 2021",
+      "waarde": "20211021_ThematicWorkshop2_MeetingMinutes_OSLOTrapeze.docx"
     }
   ],
   "presentaties": [
     {
       "naam": "Presentatie Business werkgroep - 20 augustus 2021",
-      "waarde": "OSLO Core Consent - Business Workshop.pptx"
+      "waarde": "20210819_BusinessWorkshop_PowerPoint_OSLOTrapeze.pptx"
+    },
+    {
+      "naam": "Presentatie Thematische werkgroep 1 - 23 september 2021",
+      "waarde": "20210923_ThematicWorkshop1_PowerPoint_OSLOTrapeze.pptx"
+    },
+    {
+      "naam": "Presentatie Thematische werkgroep 2 - 21 oktober 2021",
+      "waarde": "20211021_ThematicWorkshop2_PowerPoint_OSLOTrapeze.pptx"
     }
   ],
   "functioneel_toepassingsgebied": "TBD",
