@@ -1,6 +1,6 @@
 [
 {
-  "name": "consent-voc",
+  "name": "OSLO-consent-voc",
   "type": "voc",
   "eap": "Consent-VOC.eap",
   "diagram": "OSLO-Consent",

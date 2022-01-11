@@ -1,8 +1,8 @@
 [
 {
-  "name": "consent-ap",
+  "name": "OSLO-consent-ap",
   "type": "ap",
-  "eap": "Consent-AP.eap",
+  "eap": "OSLO-Consent_V4.eap",
   "diagram": "OSLO-Consent",
   "template": "consent-ap.j2",
   "title": "Consent",
