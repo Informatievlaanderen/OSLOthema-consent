@@ -4,8 +4,8 @@
   "type": "ap",
   "eap": "OSLO-Consent_V4.eap",
   "diagram": "OSLO-Consent",
-  "template": "consent-ap.j2",
-  "title": "Consent",
+  "template": "consent-ap_en.j2",
+  "title": "Consent (Application Profile)",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2020-01-31",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
@@ -13,6 +13,15 @@
   "contributors-column": "MijnKolom",
   "site": "site-skeleton/consent-ap",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-consent/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html"
+  "standaardregisterurl": "https://purl.eu",
+  "translations":  [
+      {
+        "language": "en",
+        "template": "consent-ap_en.j2",
+        "title": "Consent (Application Profile)",
+        "translationjson": "consent-ap_en.json",
+        "mergefile": "consent-ap_en_merged.jsonld"
+      }
+    ]
 }
 ]
