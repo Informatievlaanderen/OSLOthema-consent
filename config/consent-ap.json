@@ -21,6 +21,13 @@
         "title": "Consent (Application Profile)",
         "translationjson": "consent-ap_en.json",
         "mergefile": "consent-ap_en_merged.jsonld"
+      },
+      {
+        "language": "nl",
+        "template": "consent-ap_nl.j2",
+        "title": "Consent (Application Profile)",
+        "translationjson": "consent-ap_nl.json",
+        "mergefile": "consent-ap_nl_merged.jsonld"
       }
     ]
 }
