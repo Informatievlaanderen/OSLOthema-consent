@@ -4,14 +4,30 @@
   "type": "voc",
   "eap": "OSLO-Consent.eap",
   "diagram": "OSLO-Consent",
-  "template": "consent-voc.j2",
-  "title": "Consent",
+  "template": "consent-voc_en.j2",
+  "title": "Consent (Vocabulary)",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2020-01-31",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "MijnKolom",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-consent/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html"
+  "standaardregisterurl": "https://purl.eu",
+  "translation": [
+    {
+        "language": "en",
+        "template": "consent-voc_en.j2",
+        "title": "Consent (Vocabulary)",
+        "translationjson": "consent-voc_en.json",
+        "mergefile": "consent-voc_en_merged.jsonld"
+      },
+      {
+        "language": "nl",
+        "template": "consent-voc_nl.j2",
+        "title": "Consent (Vocabulary)",
+        "translationjson": "consent-voc_nl.json",
+        "mergefile": "consent-voc_nl_merged.jsonld"
+      }
+  ]
 }
 ]
