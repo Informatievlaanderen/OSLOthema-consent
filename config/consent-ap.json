@@ -2,7 +2,7 @@
 {
   "name": "OSLO-consent-ap",
   "type": "ap",
-  "eap": "OSLO-Consent_V4.eap",
+  "eap": "OSLO-Consent.eap",
   "diagram": "OSLO-Consent",
   "template": "consent-ap_en.j2",
   "title": "Consent (Application Profile)",
