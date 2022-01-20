@@ -2,7 +2,7 @@
 {
   "name": "OSLO-consent-voc",
   "type": "voc",
-  "eap": "Consent-VOC.eap",
+  "eap": "OSLO-Consent.eap",
   "diagram": "OSLO-Consent",
   "template": "consent-voc.j2",
   "title": "Consent",
