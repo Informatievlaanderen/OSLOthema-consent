@@ -1,4 +1,29 @@
-Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom;
-AuteurVoornaam;AuteurNaam;AuteurAffiliatie;auteurvoornaam.auteurnaam@auteurdomein;https://auteurwebsiteurl;A;
-EditorVoornaam;EditorNaam;EditorAffiliatie;editorvoornaam.editornaam@editordomein;https://editorwebsiteurl;E;
-MedewerkerVoornaam;MedewerkerNaam;MedewerkerAffiliatie;medewerkervoornaam.medewerkernaam@medewerkerdomein;https://medewerkerwebsiteurl;C;
+Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom
+Frédéric;Hennequin;Digitaal Vlaanderen;frederic.hennequin@vlaanderen.be;;A
+David;Van den Brande;Digitaal Vlaanderen;david.vandenbrande@vlaanderen.be;;C
+Lauro;Vanderborght;Digitaal Vlaanderen;lauro.vanderborght@vlaanderen.be;;A
+Laurens;Vercauteren;PwC;laurens.vercauteren@pwc.com;;C
+Kevin;Haleydt;PwC;kevin.haleydt@pwc.com;;E
+Michael;Geamanu;PwC;michael.geamanu@pwc.com;;E
+Dorien;Bauwens;Datanutsbedrijf;dorien.bauwens@vlaanderen.be;;C
+Filip ;Borloo;Datanutsbedrijf;filip.borloo@vlaanderen.be;;C
+Nick;Mondada;Inrupt;nicolas.mondada@inrupt.com;;C
+Ester;De Loof;Inrupt;estherd@inrupt.com;;C
+Christophe;Cop;Konsolidate;Christophe.cop@konsolidate.eu;;C
+Dimitri;Schepers;PwC;dimi.s.schepers@pwc.com;;E
+Frederic;Lebeau;Datavillage;frederic@datavillage.me;;C
+Philippe;Ducchesne;Datavillage;philippe@datavillage.me;;C
+Alexander;Vasylchenko;TenForce;;;C
+Bert;Van Nuffelen;TenForce;;;A
+Bram;Lerouge;Doccle;Bram.Lerouge@doccle.be;;C
+Jan;Geukens;MyCSN;;;C
+Jo;Vercammen;Meeco;;;C
+Nils;Meulemans;KBC;;;C
+Koen;Puttemans;Fluvius;koen.puttemans@fluvius.be;;C
+Michiel;Verbeeck;Elia;;;C
+Wim;Van Acker;Cipal Schaubroek;;;C
+Thijs;Degheldere;Itsme;;;C
+Arne;Van Der Stuyft;PwC;arne.vanderstuyft@pwc.com;;E
+Geert;Thijs;Digitaal Vlaanderen;geert.thijs@vlaanderen.be;;E
+Michael;Mampaey;Digitaal Vlaanderen;michael.mampaey@vlaanderen.be;;C
+Fédéric;Hannes;Digitaal Vlaanderen;frederic.hannes@vlaanderen.be;;C
