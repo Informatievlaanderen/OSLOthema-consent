@@ -11,7 +11,7 @@
     {
       "naam": "Applicatieprofiel Consent",
       "waarde":"https://purl.eu/doc/applicationprofile/consent/"
-    }
+    },
     {
       "naam": "Vocabularium Consent",
       "waarde":"https://purl.eu/ns/consent"
