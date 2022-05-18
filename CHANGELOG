@@ -4,3 +4,4 @@
   - Added cardinalities where these were missing.
   - Changed the attributes "HumanReadibleForm" to more specific attributes for each class. To give more meaning to the document that is associated with a class.
   - Changed the boolean properties and used code lists instead.
+  - Completed the missing labels and definitions.
