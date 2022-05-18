@@ -1,3 +1,6 @@
-YYYY-MM--DD
-  - Mijn aanpassing1
-  - Mijn aanpassing2
+2022-01-18
+  - Added a filter to the datamodel so that it is possible to further specify the personal data which is required.
+2022-05-13 (Aanpassingen publieke review)
+  - Added cardinalities where these were missing.
+  - Changed the attributes "HumanReadibleForm" to more specific attributes for each class. To give more meaning to the document that is associated with a class.
+  - Changed the boolean properties and used code lists instead.
