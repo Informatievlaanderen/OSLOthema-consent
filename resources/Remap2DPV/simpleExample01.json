@@ -1,0 +1,56 @@
+{
+	"@context": {
+		"dpv": "https://w3id.org/dpv#",
+		"dpvo": "https://w3id.org/dpv-owl#",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"skos": "http://www.w3.org/2004/02/skos/core#",
+		"org": "http://www.w3.org/ns/org#",
+		"dcterms": "http://purl.org/dc/terms/"
+	},
+	"@id": "_:Consent123",
+	"@type": "dpvo:Consent",
+	"dpvo:hasDataSubject": {
+		"@type": [
+			"dpvo:DataSubject",
+			"foaf:Person"
+		]
+	},
+	"dpvo:hasConsentStatus": {
+		"@type": "skos:Concept",
+		"@id": "dpv:ConsentGiven"
+	},
+	"dpvo:hasPersonalDataHandling": {
+		"@type": "dpvo:PersonalDataHandling",
+		"dpvo:hasDataController": {
+			"@type": [
+				"dpvo:DataController",
+				"org:Organization"
+			],
+			"skos:preflabel": {
+				"@language": "en",
+				"@value": "Google"
+			}
+		},
+		"dpvo:hasPersonalData": {
+			"@type": "dpvo:PersonalData",
+			"dcterms:type": {
+				"@type": "skos:Concept",
+				"@id": "https://data.vlaanderen.be/concept/thematic-personaldatatype/email"
+			}
+		},
+		"dpvo:hasPurpose": {
+			"@type": "dpvo:Purpose",
+			"dcterms:type": {
+				"@type": "skos:Concept",
+				"@id": "dpv:Advertising"
+			}
+		},
+		"dpvo:hasProcessing": {
+			"@type": "dpvo:Processing",
+			"dcterms:type": {
+				"@type": "skos:Concept",
+				"@id": "dpv:Share"
+			}
+		}
+	}
+}
