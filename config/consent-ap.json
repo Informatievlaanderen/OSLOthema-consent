@@ -3,7 +3,7 @@
   "name": "OSLO-consent-ap",
   "type": "ap",
   "eap": "OSLO-Consent.eap",
-  "diagram": "OSLO-Consent",
+  "diagram": "OSLO-Consent-remapped2DPV",
   "template": "consent-ap_en.j2",
   "title": "Consent (Application Profile)",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
