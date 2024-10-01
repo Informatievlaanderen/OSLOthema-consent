@@ -3,7 +3,7 @@
     "name": "consent",
     "type": "voc",
     "eap": "OSLO-Consent.eap",
-    "diagram": "OSLO-Consent",
+    "diagram": "OSLO-Consent-remapped2DPV",
     "template": "consent-voc_en.j2",
     "title": "Consent (Vocabulary)",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
