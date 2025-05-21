@@ -1,6 +1,6 @@
 {
   "title": "Vocabularium en applicatieprofiel OSLO Consent",
-  "category": "Vocabularium en applicatieprofielen",
+  "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
   "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
   "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "descriptionFileName": "core-concept.md",
