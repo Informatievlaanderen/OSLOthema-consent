@@ -5,3 +5,10 @@
   - Changed the attributes "HumanReadibleForm" to more specific attributes for each class. To give more meaning to the document that is associated with a class.
   - Changed the boolean properties and used code lists instead.
   - Completed the missing labels and definitions.
+2025-09-09
+  - error fixes: 
+  diagram: OSLO-Consent-remapped2DPV
+  - 2025-09-09T08:16:14.478Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:ADMS:Identifier:attributedBy).
+  - 2025-09-09T08:16:14.479Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:OSLO-Person:RegisteredPerson:registration).
+  - 2025-09-09T08:16:14.479Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:REGORG:RegisteredOrganisation:registration).
+  fix: Solved by resetting the range of the conflicting types
